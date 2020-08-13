@@ -1,0 +1,54 @@
+.timer, .calculate {
+  margin-top: 0px;
+  margin:auto;
+  background-color: #f1f1f1;
+  height: 660px;
+  padding-top: 50px;
+  width: 920px;
+}
+
+.timer h1 {
+  font-size: 50px;
+  color: #565656;
+}
+
+.show-second {
+  width: 50px;
+  border: 1px solid;
+}
+
+button {
+  width: 250px;
+  height: 40px;
+  color: white;
+  background-color: #00aeed;
+  border: none;
+}
+
+.timer-1{
+  display: flex;
+}
+
+.timer-2 {
+  margin-right: 20px;
+  margin-left: 40px;
+  width: 350px;
+}
+
+.timer-3{
+  padding-top: 30px;
+}
+
+.timer-4 p{
+  width: 300px;
+  height: 70px;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 10px;
+}
+
+.back-home{
+  float: left;
+  margin-top: 30px;
+  margin-left: 100px;
+}
